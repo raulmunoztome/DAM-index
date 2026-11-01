@@ -9,10 +9,12 @@
 ### Hilos y procesos
 - [FilsBank](https://github.com/raulmunoztome/FilsBank)
 
-### Android y Kotlin
+### Android
 - [P3-Controls-de-selecci-EJ1-](https://github.com/raulmunoztome/P3-Controls-de-selecci-EJ1-)
 - [P3-Controls-de-selecci-EJ3.5-](https://github.com/raulmunoztome/P3-Controls-de-selecci-EJ3.5-)
 - [Ejercicio1.5](https://github.com/raulmunoztome/Ejercicio1.5)
+
+### Optativa
 - [Optativa1](https://github.com/raulmunoztome/Optativa1)
 - [Practica-OPT-1](https://github.com/raulmunoztome/Practica-OPT-1)
 
